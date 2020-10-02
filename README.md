@@ -1,6 +1,6 @@
 # [Whatsapp](https://whatsapp-clone4.web.app/)
 
-This is a whatsapp clone built with react, you can send me a message here, and I'd respond. [WhatsApp](https://whatsapp-clone4.web.app/).
+This is a whatsapp clone built with react and firebase as the real-time database, you can send me a message here, and I'd respond. [WhatsApp](https://whatsapp-clone4.web.app/).
 
 ## Available Scripts
 
